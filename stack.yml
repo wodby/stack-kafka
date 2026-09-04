@@ -1,0 +1,23 @@
+name: kafka
+title: Apache Kafka
+icon: kafka
+
+services:
+- name: kafka
+  title: Apache Kafka
+  service: kafka
+  required: true
+  volumes:
+  - name: data
+    size: 20
+  workloads:
+  - name: main
+    containers:
+    - name: kafka
+      resources:
+        request:
+          cpu: 500
+          memory: 1024
+        limit:
+          cpu: 2000
+          memory: 4096
