@@ -11,6 +11,7 @@ composition for Apache Kafka.
 
 - [Apache Kafka stack on Wodby](https://wodby.com/stacks/kafka)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [Apache Kafka stack guide](https://wodby.com/docs/2.0/stacks/catalog/kafka/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
