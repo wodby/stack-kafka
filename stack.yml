@@ -1,6 +1,7 @@
 name: kafka
 title: Apache Kafka
 icon: kafka
+docs: https://wodby.com/docs/2.0/stacks/catalog/kafka/
 
 services:
 - name: kafka
